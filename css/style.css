@@ -1,5 +1,5 @@
 body{
-    background-color: #000000;
+    background: #000000;
     color:#FFFFFF;
     margin-top: 20px;
     margin-left: 20px;
@@ -40,14 +40,14 @@ div{
     line-height: 2;
 }
 .red{
-    background-color:#FF0000;
+    background:#FF0000;
     text-align: right;
     margin-left: 50px;
     border-bottom: 2px;
     border-left: 5px;
 }
 .blue{
-    background-color:#0000FF;
+    background:#0000FF;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
@@ -60,7 +60,7 @@ div{
     color:#C4C4C4;
 }
 .yellow{
-    background-color: #FFFF00;
+    background: #FFFF00;
     text-align: right;
     margin-left: 50px;
     border-bottom: 2px;
@@ -70,7 +70,7 @@ div{
     color: #707070;
 }
 .green{
-    background-color: #00D800;
+    background: #00D800;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
