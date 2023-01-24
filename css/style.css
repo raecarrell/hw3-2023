@@ -5,7 +5,7 @@ body{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: None;
-    font-family: Arial, Veranda; 
+    font-family: Arial, Verdana; 
 }
 h1{
     font-size: 42px;
@@ -76,7 +76,7 @@ div{
     color: #707070;
 }
 .green{
-    background: #00FF00;
+    background: #00EB00;
     text-align: left;
     margin-right: 50px;
     border-right: solid 5px #FFFFFF;
@@ -93,7 +93,7 @@ footer p{
     font-size: 20px; 
     text-align: right;
     padding-right: 15px; 
-    padding-left:None;
+    padding-left: None;
     padding-bottom: 15px;
     padding-top: 15px;
 }
