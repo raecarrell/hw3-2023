@@ -5,7 +5,7 @@ body{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: None;
-    font-family: Arial, 'Veranda'; 
+    font-family: Arial, Veranda; 
 }
 h1{
     font-size: 42px;
@@ -76,7 +76,7 @@ div{
     color: #707070;
 }
 .green{
-    background: #00D800;
+    background: #00FF00;
     text-align: left;
     margin-right: 50px;
     border-right: solid 5px #FFFFFF;
@@ -87,13 +87,13 @@ div{
 }
 footer{
     background-image: linear-gradient(to right, #000000 25px, #0000ff 70px, #0066ff, #000000);
-    border: 5px solid #FFFFFF;
+    border:solid 5px #FFFFFF;
 }
 footer p{
     font-size: 20px; 
     text-align: right;
-    padding-top: 15px;
-    padding-right: 15px;
+    padding-right: 15px; 
+    padding-left:None;
     padding-bottom: 15px;
-    padding-left: None;
+    padding-top: 15px;
 }
